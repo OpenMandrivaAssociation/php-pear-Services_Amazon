@@ -5,7 +5,7 @@
 
 Summary:	%{_pearname} - access to Amazon.com's web services
 Name:		php-pear-%{_pearname}
-Version:	0.4.0
+Version:	0.7.0
 Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
