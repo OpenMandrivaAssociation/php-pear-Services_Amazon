@@ -19,6 +19,7 @@ Requires:	php-pear
 BuildArch:	noarch
 BuildRequires:	dos2unix
 BuildRequires:	recode
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Services_Amazon uses Amazon.com's web services to allow developers to
