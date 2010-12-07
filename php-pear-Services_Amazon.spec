@@ -6,7 +6,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.7.0
-Release:	%mkrel 5
+Release:	%mkrel 6
 Summary:	Access to Amazon.com's web services
 License:	PHP License
 Group:		Development/PHP
