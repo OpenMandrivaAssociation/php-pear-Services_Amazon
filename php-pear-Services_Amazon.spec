@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.9.0
-Release:	1
+Release:	2
 Summary:	Access to Amazon.com's web services
 License:	PHP License
 Group:		Development/PHP
