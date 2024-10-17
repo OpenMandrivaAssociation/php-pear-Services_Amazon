@@ -8,7 +8,7 @@ Release:	2
 Summary:	Access to Amazon.com's web services
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Services_Amazon/
+URL:		https://pear.php.net/package/Services_Amazon/
 Source0:	http://download.pear.php.net/package/Services_Amazon-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
